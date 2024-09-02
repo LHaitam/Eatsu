@@ -1,0 +1,97 @@
+{
+    "english": {
+        "welcome-title": "Welcome to Eatsu",
+
+        "welcome-description": "Experience a unique blend of Japanese and Peruvian flavors. Enjoy exquisite dishes crafted with care in a vibrant, welcoming atmosphere. Whether dining with us or using our catering service, every moment promises to be exceptional.",
+
+        "menu-title":"JAPANESE REIMAGINED",
+
+        "menu-description": "Eatsu offers you a fusion of cultures between Japan and Peru, a cuisine that will delight you with its carefully selected ingredients, ensuring a high quality of dishes. Our Peruvian chef and staff will be genuinely pleased to welcome you in a friendly atmosphere with colorful decor, guaranteeing a culinary journey with every bite and making your experience exceptional!",
+
+        "delivery-title": "CHEF AT HOME EVENTS",
+
+        "traiteur-description":"Our catering service offers a wide selection for your guests, including buffets and desserts with quantities tailored to your needs. We provide a customized menu for every occasion featuring seasonal products, complemented by a live cooking show by our Peruvian chef!",
+
+        "delivery-description": "Orient flavors in your house? It's possible now! Just call us and we'll take care of everything. Find our restaurants on the map and check out our delivery pricing.",
+
+        "traiteur-title":"CHEF AT HOME EVENTS",
+
+        "menu-options": {
+            "specials": "Specials",
+            "starters": "Starters",
+            "soups": "Soups",
+            "for-children": "For children",
+            "main-dishes": "Main dishes",
+            "salads": "Salads",
+            "sushi-sets": "Sushi sets",
+            "desserts": "Desserts",
+            "hot-drinks": "Hot drinks",
+            "cold-drinks": "Cold drinks",
+            "wines": "Wines",
+            "alcohol": "Alcohol"
+        },
+
+        "buttons": {
+            "home": "Home",
+            "menu": "Menu",
+            "delivery": "Catering Service",
+            "contact": "Contact",
+            "download-menu": "View Menu & Order",
+            "show-pricing": "Send Your Request"
+        },
+
+        "call-us": "Call us",
+        "maarif": "Eatsu Maarif",
+        "bouskoura": "Eatsu Bouskoura",
+        "write-to-us": "Write to us",
+        "stay-on-top": "Stay on top"
+    },
+
+    "french": {
+        "welcome-title": "Bienvenue chez Eatsu",
+
+        "welcome-description": "Découvrez un mélange unique de saveurs japonaises et péruviennes. Savourez des plats exquis préparés avec soin dans une atmosphère vibrante et accueillante. Que ce soit pour un repas sur place ou un service traiteur, chaque moment promet d'être exceptionnel.",
+
+        "menu-title":"LE JAPONAIS RÉINVENTÉ",
+
+        "menu-description": "Eatsu vous offre une fusion de cultures entre le Japan et Pérou, une cuisine qui saura vous satisfaire par ses produits soigneusement sélectionnés pour vous garantir une grande qualité de plats. Notre chef péruvien ainsi que notre personnel se fera un réel plaisir de vous recevoir dans une ambiance conviviale et une décoration colorée en vous assurant un voyage culinaire à chaque bouchée et rendre votre expérience exceptionnelle !",
+
+        "delivery-title": "EXPÉRIENCES CULINAIRES À DOMICILE",
+        
+        "traiteur-description":"Notre service traiteur peut vous confectionner un multiple choix pour vos convives, comprenant buffet, desserts avec des quantités adaptées au nombre de personnes. On vous propose un menu adapté pour chaque occasion avec les produits du moment accompagné d'un show cooking par notre chef péruvien !",
+
+        "delivery-description": "Orientalne smaki w Twoim domu? Teraz to możliwe! Zadzwoń na nasz numer, a my zajmiemy się wszystkim. Znajdź nasze restauracje na mapie i sprawdź ceny dostawy.",
+
+        "traiteur-title":"EXPÉRIENCES CULINAIRES À DOMICILE",
+
+        "menu-options": {
+            "specials": "Specjały",
+            "starters": "Startery",
+            "soups": "Zupy",
+            "for-children": "Dla dzieci",
+            "main-dishes": "Główne dania",
+            "salads": "Sałatki",
+            "sushi-sets": "Zestawy sushi",
+            "desserts": "Desery",
+            "hot-drinks": "Gorące napoje",
+            "cold-drinks": "Zimne napoje",
+            "wines": "Wina",
+            "alcohol": "Alkohol"
+        },
+
+        "buttons": {
+            "home": "Accueil",
+            "menu": "Menu",
+            "delivery": "Service traiteur",
+            "contact": "Contact",
+            "download-menu": "Voir Menu & Commander",
+            "show-pricing": "Envoyer votre demande"
+        },
+
+        "call-us": "Appelez-nous",
+        "maarif": "Eatsu Maarif",
+        "bouskoura": "Eatsu Bouskoura",
+        "write-to-us": "Écrivez-nous",
+        "stay-on-top": "Restez informé"
+    }
+}
