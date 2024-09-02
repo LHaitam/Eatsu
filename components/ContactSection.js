@@ -37,7 +37,7 @@ export default function ContactSection() {
                 </div>
                 <div className="contact-element-container">
                     <h1>{languageContext.languageData["write-to-us"]}</h1>
-                    <h3>biernackimichal022@gmail.com</h3>
+                    <h3>contact@eatsu.ma</h3>
                 </div>
                 <div className="contact-element-container">
                     <h1>{languageContext.languageData["stay-on-top"]}</h1>
