@@ -8,7 +8,7 @@ import Image from "next/image";
 export default function MenuSection() {
     const languageContext = useContext(LanguageContext);
     return (
-        <section className="main-section" id="menu-section">
+        <section className="main-section" id="delivery-section">
             <div className="cover-fadeOpacity"></div>
             <Image src="/assets/delivery-background.webp" objectFit="cover" layout="fill" priority />
             <section id="menu-description-container">
